@@ -1,0 +1,460 @@
+{
+  "lyrics": [
+    {
+      "time": 14202,
+      "text": "离开你的那天世界",
+      "pinyin": "Líkāi nǐ de nà tiān shìjiè",
+      "trans": "Di hari aku meninggalkanmu, dunia"
+    },
+    {
+      "time": 16069,
+      "text": "突然就下了暴雨",
+      "pinyin": "Tūrán jiù xiàle bàoyǔ",
+      "trans": "Tiba-tiba turun hujan badai"
+    },
+    {
+      "time": 17988,
+      "text": "我有多么不舍",
+      "pinyin": "Wǒ yǒu duōme bù shě",
+      "trans": "Betapa aku merasa tak rela"
+    },
+    {
+      "time": 19009,
+      "text": "当然就会多么多么爱你",
+      "pinyin": "Dāngrán jiù huì duōme duōme ài nǐ",
+      "trans": "Tentu saja aku sangat, sangat mencintaimu"
+    },
+    {
+      "time": 21390,
+      "text": "该死的雨冲刷",
+      "pinyin": "Gāisǐ de yǔ chōngshuā",
+      "trans": "Hujan sialan ini menyapu bersih"
+    },
+    {
+      "time": 22742,
+      "text": "我们所有留下的印记",
+      "pinyin": "Wǒmen suǒyǒu liú xià de yìnjì",
+      "trans": "Semua jejak yang kita tinggalkan"
+    },
+    {
+      "time": 24603,
+      "text": "你走后 浑噩迷茫",
+      "pinyin": "Nǐ zǒu hòu hún'è mímáng",
+      "trans": "Setelah kau pergi, aku kebingungan dan linglung"
+    },
+    {
+      "time": 27017,
+      "text": "我不在是我自己",
+      "pinyin": "Wǒ bùzài shì wǒ zìjǐ",
+      "trans": "Aku bukanlah diriku lagi"
+    },
+    {
+      "time": 28755,
+      "text": "歌词就又写在凌晨的 1点20分",
+      "pinyin": "Gēcí jiù yòu xiě zài língchén de 1 diǎn 20 fēn",
+      "trans": "Lirik pun kembali ditulis pada pukul 1:20 dini hari"
+    },
+    {
+      "time": 31842,
+      "text": "离别时说的话",
+      "pinyin": "Líbié shí shuō de huà",
+      "trans": "Kata-kata yang diucapkan saat perpisahan"
+    },
+    {
+      "time": 33344,
+      "text": "像在我心脏扎的针",
+      "pinyin": "Xiàng zài wǒ xīnzàng zhā de zhēn",
+      "trans": "Terasa seperti jarum yang menusuk jantungku"
+    },
+    {
+      "time": 35268,
+      "text": "思念埋进土壤",
+      "pinyin": "Sīniàn mái jìn tǔrǎng",
+      "trans": "Kerinduan yang terkubur ke dalam tanah"
+    },
+    {
+      "time": 36780,
+      "text": "早就会发芽生了根",
+      "pinyin": "Zǎo jiù huì fāyá shēngle gēn",
+      "trans": "Telah lama bertunas dan mengakar"
+    },
+    {
+      "time": 38695,
+      "text": "为你写的情书",
+      "pinyin": "Wèi nǐ xiě de qíngshū",
+      "trans": "Surat cinta yang kutulis untukmu"
+    },
+    {
+      "time": 40325,
+      "text": "让我思绪突然发了疯",
+      "pinyin": "Ràng wǒ sīxù tūrán fāle fēng",
+      "trans": "Membuat pikiranku tiba-tiba menjadi gila"
+    },
+    {
+      "time": 42437,
+      "text": "无数次想证明到永恒",
+      "pinyin": "Wúshù cì xiǎng zhèngmíng dào yǒnghéng",
+      "trans": "Berulang kali ingin membuktikannya hingga keabadian"
+    },
+    {
+      "time": 44552,
+      "text": "我依然没做到",
+      "pinyin": "Wǒ yīrán méi zuò dào",
+      "trans": "Aku masih saja belum bisa melakukannya"
+    },
+    {
+      "time": 46022,
+      "text": "答应你走完这路程",
+      "pinyin": "Dāyìng nǐ zǒu wán zhè lùchéng",
+      "trans": "Berjanji padamu untuk menyelesaikan perjalanan ini"
+    },
+    {
+      "time": 48023,
+      "text": "我还是没做到",
+      "pinyin": "Wǒ háishì méi zuò dào",
+      "trans": "Aku tetap saja gagal melakukannya"
+    },
+    {
+      "time": 49789,
+      "text": "维持感情中的平衡",
+      "pinyin": "Wéichí gǎnqíng zhōng de pínghéng",
+      "trans": "Mempertahankan keseimbangan dalam hubungan"
+    },
+    {
+      "time": 51625,
+      "text": "我终究没做到",
+      "pinyin": "Wǒ zhōngjiù méi zuò dào",
+      "trans": "Pada akhirnya aku tak bisa melakukannya"
+    },
+    {
+      "time": 53060,
+      "text": "对不起我没管它",
+      "pinyin": "Duìbùqǐ wǒ méi guǎn tā",
+      "trans": "Maafkan aku yang tak mengindahkannya"
+    },
+    {
+      "time": 54469,
+      "text": "才让它会持续发酵",
+      "pinyin": "Cái ràng tā huì chíxù fājiào",
+      "trans": "Hingga membiarkannya terus memburuk"
+    },
+    {
+      "time": 55969,
+      "text": "忘不掉你带给我的吻",
+      "pinyin": "Wàng bù diào nǐ dài gěi wǒ de wěn",
+      "trans": "Tak bisa melupakan ciuman yang kau berikan"
+    },
+    {
+      "time": 58345,
+      "text": "给我的安稳",
+      "pinyin": "Gěi wǒ de ānwěn",
+      "trans": "Kedamaian yang kau berikan"
+    },
+    {
+      "time": 60445,
+      "text": "带给我的恨",
+      "pinyin": "Dài gěi wǒ de hèn",
+      "trans": "Kebencian yang kau bawa padaku"
+    },
+    {
+      "time": 63409,
+      "text": "也许我 爱得太沉 太过天真",
+      "pinyin": "Yěxǔ wǒ ài de tài chén, tàiguò tiānzhēn",
+      "trans": "Mungkin aku mencintai terlalu dalam, terlalu naif"
+    },
+    {
+      "time": 67599,
+      "text": "换不得永恒",
+      "pinyin": "Huàn bùdé yǒnghéng",
+      "trans": "Tak bisa ditukar dengan keabadian"
+    },
+    {
+      "time": 69888,
+      "text": "曾经的你多坦诚",
+      "pinyin": "Céngjīng de nǐ duō tǎnchéng",
+      "trans": "Dulu kau begitu jujur"
+    },
+    {
+      "time": 72349,
+      "text": "美梦没成真",
+      "pinyin": "Měimèng méi chéng zhēn",
+      "trans": "Mimpi indah tak menjadi kenyataan"
+    },
+    {
+      "time": 74614,
+      "text": "现在多残忍",
+      "pinyin": "Xiànzài duō cánrěn",
+      "trans": "Sekarang semuanya begitu kejam"
+    },
+    {
+      "time": 77255,
+      "text": "回忆里的我 围城中的我",
+      "pinyin": "Huíyì lǐ de wǒ, wéichéng zhōng de wǒ",
+      "trans": "Diriku di dalam kenangan, diriku di kota yang terkepung"
+    },
+    {
+      "time": 80781,
+      "text": "没有资格再多说",
+      "pinyin": "Méiyǒu zīgé zài duō shuō",
+      "trans": "Tak punya hak lagi untuk banyak bicara"
+    },
+    {
+      "time": 83681,
+      "text": "再奢求你的 什么",
+      "pinyin": "Zài shēqiú nǐ de shénme",
+      "trans": "Atau mengharapkan apapun darimu"
+    },
+    {
+      "time": 88347,
+      "text": "好奇这过程总是",
+      "pinyin": "Hàóqí zhè guòchéng zǒng shì",
+      "trans": "Penasaran mengapa proses ini selalu"
+    },
+    {
+      "time": 89921,
+      "text": "带着些许歇斯底里",
+      "pinyin": "Dàizhe xiēxǔ xiēsīdǐlǐ",
+      "trans": "Membawa sedikit histeria"
+    },
+    {
+      "time": 91648,
+      "text": "那参与过程的我们",
+      "pinyin": "Nà cānyù guòchéng de wǒmen",
+      "trans": "Kita yang ikut serta dalam proses itu"
+    },
+    {
+      "time": 93594,
+      "text": "是否还会想起",
+      "pinyin": "Shìfǒu hái huì xiǎngqǐ",
+      "trans": "Apakah masih akan mengingatnya"
+    },
+    {
+      "time": 95364,
+      "text": "想起那些遗憾过程",
+      "pinyin": "Xiǎngqǐ nàxiē yíhàn guòchéng",
+      "trans": "Mengingat proses yang penuh penyesalan itu"
+    },
+    {
+      "time": 97516,
+      "text": "是否隐隐做疼",
+      "pinyin": "Shìfǒu yǐnyǐn zuò téng",
+      "trans": "Apakah diam-diam terasa menyakitkan"
+    },
+    {
+      "time": 98711,
+      "text": "期盼曾经彼此若能",
+      "pinyin": "Qīpàn céngjīng bǐcǐ ruò néng",
+      "trans": "Berharap andai saja dulu kita bisa"
+    },
+    {
+      "time": 100580,
+      "text": "却搭不上这最后一程",
+      "pinyin": "Què dā bù shàng zhè zuìhòu yī chéng",
+      "trans": "Namun tak bisa menaiki perjalanan terakhir ini"
+    },
+    {
+      "time": 102695,
+      "text": "永不遗忘的永不一样",
+      "pinyin": "Yǒng bù yíwàng de yǒng bù yīyàng",
+      "trans": "Yang tak pernah terlupakan selamanya akan berbeda"
+    },
+    {
+      "time": 104184,
+      "text": "不用听说你我非常的像",
+      "pinyin": "Bùyòng tīngshuō nǐ wǒ fēicháng de xiàng",
+      "trans": "Tak perlu mendengar bahwa kau dan aku sangat mirip"
+    },
+    {
+      "time": 105993,
+      "text": "不见希望它的确很犟",
+      "pinyin": "Bùjiàn xīwàng tā díquè hěn jiàng",
+      "trans": "Tak melihat harapan, ia memang sangat keras kepala"
+    },
+    {
+      "time": 107533,
+      "text": "心中的你却是仍旧滚烫",
+      "pinyin": "Xīnzhōng de nǐ què shì réngjiù gǔntàng",
+      "trans": "Namun dirimu di dalam hati ini masih tetap membara"
+    },
+    {
+      "time": 109295,
+      "text": "夜不高尚的光之所向",
+      "pinyin": "Yè bù gāoshàng de guāng zhī suǒ xiàng",
+      "trans": "Arah cahaya malam yang tak mulia"
+    },
+    {
+      "time": 110999,
+      "text": "像个秋千谁都能荡",
+      "pinyin": "Xiàng gè qiūqiān shuí dōu néng dàng",
+      "trans": "Seperti ayunan yang bisa diayun siapa saja"
+    },
+    {
+      "time": 112619,
+      "text": "原谅我绝不可能原谅",
+      "pinyin": "Yuánliàng wǒ jué bù kěnéng yuánliàng",
+      "trans": "Maafkan aku, aku tak mungkin pernah memaafkan"
+    },
+    {
+      "time": 114089,
+      "text": "即使我这条路程走的踉跄",
+      "pinyin": "Jíshǐ wǒ zhè tiáo lùchéng zǒu de liàngqiàng",
+      "trans": "Meskipun aku berjalan terhuyung-huyung di perjalanan ini"
+    },
+    {
+      "time": 116663,
+      "text": "压抑住我这病态的爱",
+      "pinyin": "Yāyì zhù wǒ zhè bìngtài de ài",
+      "trans": "Menekan cintaku yang tidak sehat ini"
+    },
+    {
+      "time": 118776,
+      "text": "雨落的速度变得飞快",
+      "pinyin": "Yǔ luò de sùdù biàn dé fēikuài",
+      "trans": "Kecepatan jatuhnya hujan menjadi sangat cepat"
+    },
+    {
+      "time": 120527,
+      "text": "由春到冬像逐渐腐败",
+      "pinyin": "Yóu chūn dào dōng xiàng zhújiàn fǔbài",
+      "trans": "Dari musim semi ke musim dingin, bagaikan membusuk perlahan"
+    },
+    {
+      "time": 122095,
+      "text": "参与轮回真除我以外",
+      "pinyin": "Cānyù lúnhuí zhēn chú wǒ yǐwài",
+      "trans": "Ikut serta dalam reinkarnasi sungguh kecuali diriku"
+    },
+    {
+      "time": 124019,
+      "text": "没有你的生活",
+      "pinyin": "Méiyǒu nǐ de shēnghuó",
+      "trans": "Hidup tanpamu"
+    },
+    {
+      "time": 125122,
+      "text": "我真不可能会完全做的到",
+      "pinyin": "Wǒ zhēn bù kěnéng huì wánquán zuò de dào",
+      "trans": "Aku benar-benar tak mungkin bisa melakukannya sepenuhnya"
+    },
+    {
+      "time": 127112,
+      "text": "痛苦是根源",
+      "pinyin": "Tòngkǔ shì gēnyuán",
+      "trans": "Penderitaan adalah sumbernya"
+    },
+    {
+      "time": 128123,
+      "text": "我又怎么可能把它忘的掉",
+      "pinyin": "Wǒ yòu zěnme kěnéng bǎ tā wàng de diào",
+      "trans": "Bagaimana mungkin aku bisa melupakannya"
+    },
+    {
+      "time": 130168,
+      "text": "忘不掉你带给我的吻",
+      "pinyin": "Wàng bù diào nǐ dài gěi wǒ de wěn",
+      "trans": "Tak bisa melupakan ciuman yang kau berikan"
+    },
+    {
+      "time": 132505,
+      "text": "给我的安稳",
+      "pinyin": "Gěi wǒ de ānwěn",
+      "trans": "Kedamaian yang kau berikan"
+    },
+    {
+      "time": 134661,
+      "text": "带给我的恨",
+      "pinyin": "Dài gěi wǒ de hèn",
+      "trans": "Kebencian yang kau bawa padaku"
+    },
+    {
+      "time": 137264,
+      "text": "也许我 爱得太沉 太过天真",
+      "pinyin": "Yěxǔ wǒ ài de tài chén, tàiguò tiānzhēn",
+      "trans": "Mungkin aku mencintai terlalu dalam, terlalu naif"
+    },
+    {
+      "time": 141662,
+      "text": "换不得永恒",
+      "pinyin": "Huàn bùdé yǒnghéng",
+      "trans": "Tak bisa ditukar dengan keabadian"
+    },
+    {
+      "time": 144888,
+      "text": "永恒",
+      "pinyin": "Yǒnghéng",
+      "trans": "Keabadian"
+    },
+    {
+      "time": 147682,
+      "text": "忘不掉你带给我的吻（压抑住我这病态的爱）",
+      "pinyin": "Wàng bù diào nǐ dài gěi wǒ de wěn (Yāyì zhù wǒ zhè bìngtài de ài)",
+      "trans": "Tak bisa melupakan ciuman yang kau berikan (Menekan cintaku yang tak sehat ini)"
+    },
+    {
+      "time": 150198,
+      "text": "给我的安稳（雨落的速度变得飞快）",
+      "pinyin": "Gěi wǒ de ānwěn (Yǔ luò de sùdù biàn dé fēikuài)",
+      "trans": "Kedamaian yang kau berikan (Kecepatan hujan menjadi sangat cepat)"
+    },
+    {
+      "time": 152336,
+      "text": "带给我的恨（由春到冬像逐渐腐败 参与轮回真除我以外）",
+      "pinyin": "Dài gěi wǒ de hèn (Yóu chūn dào dōng xiàng zhújiàn fǔbài cānyù lúnhuí zhēn chú wǒ yǐwài)",
+      "trans": "Kebencian yang kau bawa padaku (Dari semi ke dingin bagai membusuk, ikut reinkarnasi sungguh kecuali diriku)"
+    },
+    {
+      "time": 154994,
+      "text": "也许我 爱得太沉（没有你的生活我真不可能会）",
+      "pinyin": "Yěxǔ wǒ ài de tài chén (Méiyǒu nǐ de shēnghuó wǒ zhēn bù kěnéng huì)",
+      "trans": "Mungkin aku mencintai terlalu dalam (Hidup tanpamu aku sungguh tak akan mungkin)"
+    },
+    {
+      "time": 157533,
+      "text": "太过天真（完全做得到 痛苦是）",
+      "pinyin": "Tàiguò tiānzhēn (Wánquán zuò de dào tòngkǔ shì)",
+      "trans": "Terlalu naif (Bisa melakukannya sepenuhnya, penderitaan adalah)"
+    },
+    {
+      "time": 159437,
+      "text": "换不得永恒（根源我又怎么可能 把它忘的掉）",
+      "pinyin": "Huàn bùdé yǒnghéng (Gēnyuán wǒ yòu zěnme kěnéng bǎ tā wàng de diào)",
+      "trans": "Tak bisa ditukar dengan keabadian (Sumbernya, bagaimana mungkin aku melupakannya)"
+    },
+    {
+      "time": 161360,
+      "text": "曾经的你多坦诚",
+      "pinyin": "Céngjīng de nǐ duō tǎnchéng",
+      "trans": "Dulu kau begitu jujur"
+    },
+    {
+      "time": 164145,
+      "text": "美梦没成真",
+      "pinyin": "Měimèng méi chéng zhēn",
+      "trans": "Mimpi indah tak menjadi kenyataan"
+    },
+    {
+      "time": 166320,
+      "text": "现在多残忍",
+      "pinyin": "Xiànzài duō cánrěn",
+      "trans": "Sekarang semuanya begitu kejam"
+    },
+    {
+      "time": 168651,
+      "text": "回忆里的我 围城中的我",
+      "pinyin": "Huíyì lǐ de wǒ, wéichéng zhōng de wǒ",
+      "trans": "Diriku di dalam kenangan, diriku di kota yang terkepung"
+    },
+    {
+      "time": 172556,
+      "text": "没有资格再多说",
+      "pinyin": "Méiyǒu zīgé zài duō shuō",
+      "trans": "Tak punya hak lagi untuk banyak bicara"
+    },
+    {
+      "time": 175131,
+      "text": "再奢求你的 什么",
+      "pinyin": "Zài shēqiú nǐ de shénme",
+      "trans": "Atau mengharapkan apapun darimu"
+    }
+  ]
+}
