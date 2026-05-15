@@ -1,0 +1,324 @@
+{
+  "lyrics": [
+    {
+      "time": 0,
+      "text": "be a good person"
+    },
+    {
+      "time": 2340,
+      "text": "ei ei ei"
+    },
+    {
+      "time": 5820,
+      "text": "be a good person"
+    },
+    {
+      "time": 8480,
+      "text": "ei ei ei"
+    },
+    {
+      "time": 11870,
+      "text": "be a good person"
+    },
+    {
+      "time": 17790,
+      "text": "be a good person"
+    },
+    {
+      "time": 24200,
+      "text": "i love the world that used to made"
+    },
+    {
+      "time": 27280,
+      "text": "我也想过失去的滋味",
+      "romanization": "wǒ yě xiǎng guò shī qù de zī wèi",
+      "translate": "I've also thought about the taste of losing"
+    },
+    {
+      "time": 30320,
+      "text": "你在我身边不会变枯萎",
+      "romanization": "nǐ zài wǒ shēn biān bú huì biàn kū wěi",
+      "translate": "You won't wither by my side"
+    },
+    {
+      "time": 33300,
+      "text": "我的世界也开始在下坠",
+      "romanization": "wǒ de shì jiè yě kāi shǐ zài xià zhuì",
+      "translate": "My world is also starting to fall"
+    },
+    {
+      "time": 36330,
+      "text": "i can't feel it alright"
+    },
+    {
+      "time": 37940,
+      "text": "baby do u alright"
+    },
+    {
+      "time": 39210,
+      "text": "这不是意外",
+      "romanization": "zhè bú shì yì wài",
+      "translate": "This is not an accident"
+    },
+    {
+      "time": 40630,
+      "text": "dont say me goodbye"
+    },
+    {
+      "time": 42210,
+      "text": "怎么变成空白",
+      "romanization": "zěn me biàn chéng kōng bái",
+      "translate": "How did it become blank"
+    },
+    {
+      "time": 43650,
+      "text": "谁会把我替代",
+      "romanization": "shuí huì bǎ wǒ tì dài",
+      "translate": "Who will replace me"
+    },
+    {
+      "time": 45150,
+      "text": "那就给个痛快",
+      "romanization": "nà jiù gěi gè tòng kuài",
+      "translate": "Then give me a quick end"
+    },
+    {
+      "time": 46640,
+      "text": "我也不想等待",
+      "romanization": "wǒ yě bù xiǎng děng dài",
+      "translate": "I don't want to wait anymore"
+    },
+    {
+      "time": 48170,
+      "text": "麻烦你忘记我也不会去",
+      "romanization": "má fan nǐ wàng jì wǒ yě bú huì qù",
+      "translate": "Please forget me, I won't go either"
+    },
+    {
+      "time": 51240,
+      "text": "我只想卧在我的卧室里",
+      "romanization": "wǒ zhǐ xiǎng wò zài wǒ de wò shì lǐ",
+      "translate": "I just want to lie in my bedroom"
+    },
+    {
+      "time": 54100,
+      "text": "you should know that all the eyes on me"
+    },
+    {
+      "time": 57200,
+      "text": "我不想回忆我曾经过去",
+      "romanization": "wǒ bù xiǎng huí yì wǒ céng jīng guò qù",
+      "translate": "I don't want to recall my past"
+    },
+    {
+      "time": 60070,
+      "text": "你对我的了解",
+      "romanization": "nǐ duì wǒ de liǎo jiě",
+      "translate": "Your understanding of me"
+    },
+    {
+      "time": 62070,
+      "text": "无声的告别",
+      "romanization": "wú shēng de gào bié",
+      "translate": "A silent farewell"
+    },
+    {
+      "time": 63530,
+      "text": "难过是有些",
+      "romanization": "nán guò shì yǒu xiē",
+      "translate": "There is some sadness"
+    },
+    {
+      "time": 65350,
+      "text": "我情绪在凋谢",
+      "romanization": "wǒ qíng xù zài diāo xiè",
+      "translate": "My emotions are withering"
+    },
+    {
+      "time": 68090,
+      "text": "记忆在交叠",
+      "romanization": "jì yì zài jiāo dié",
+      "translate": "Memories are overlapping"
+    },
+    {
+      "time": 69520,
+      "text": "怎么会好些",
+      "romanization": "zěn me huì hǎo xiē",
+      "translate": "How can it get better"
+    },
+    {
+      "time": 71660,
+      "text": "be a good person"
+    },
+    {
+      "time": 74440,
+      "text": "ei ei ei"
+    },
+    {
+      "time": 78030,
+      "text": "be a good person"
+    },
+    {
+      "time": 80250,
+      "text": "ei ei ei"
+    },
+    {
+      "time": 82460,
+      "text": "be a be a good person"
+    },
+    {
+      "time": 86670,
+      "text": "be a be a good person"
+    },
+    {
+      "time": 89810,
+      "text": "be a good person"
+    },
+    {
+      "time": 96040,
+      "text": "i love the world that used to made"
+    },
+    {
+      "time": 99270,
+      "text": "我也想过失去的滋味",
+      "romanization": "wǒ yě xiǎng guò shī qù de zī wèi",
+      "translate": "I've also thought about the taste of losing"
+    },
+    {
+      "time": 102180,
+      "text": "你在我身边不会变枯萎",
+      "romanization": "nǐ zài wǒ shēn biān bú huì biàn kū wěi",
+      "translate": "You won't wither by my side"
+    },
+    {
+      "time": 105230,
+      "text": "我的世界也开始在下坠",
+      "romanization": "wǒ de shì jiè yě kāi shǐ zài xià zhuì",
+      "translate": "My world is also starting to fall"
+    },
+    {
+      "time": 108160,
+      "text": "i can't feel it alright"
+    },
+    {
+      "time": 109760,
+      "text": "baby do u alright"
+    },
+    {
+      "time": 111120,
+      "text": "这不是意外",
+      "romanization": "zhè bú shì yì wài",
+      "translate": "This is not an accident"
+    },
+    {
+      "time": 112730,
+      "text": "dont say me goodbye"
+    },
+    {
+      "time": 114280,
+      "text": "怎么变成空白",
+      "romanization": "zěn me biàn chéng kōng bái",
+      "translate": "How did it become blank"
+    },
+    {
+      "time": 115650,
+      "text": "谁会把我替代",
+      "romanization": "shuí huì bǎ wǒ tì dài",
+      "translate": "Who will replace me"
+    },
+    {
+      "time": 117080,
+      "text": "那就给个痛快",
+      "romanization": "nà jiù gěi gè tòng kuài",
+      "translate": "Then give me a quick end"
+    },
+    {
+      "time": 118560,
+      "text": "我也不想等待",
+      "romanization": "wǒ yě bù xiǎng děng dài",
+      "translate": "I don't want to wait anymore"
+    },
+    {
+      "time": 120090,
+      "text": "麻烦你忘记我也不会去",
+      "romanization": "má fan nǐ wàng jì wǒ yě bú huì qù",
+      "translate": "Please forget me, I won't go either"
+    },
+    {
+      "time": 123170,
+      "text": "我只想卧在我的卧室里",
+      "romanization": "wǒ zhǐ xiǎng wò zài wǒ de wò shì lǐ",
+      "translate": "I just want to lie in my bedroom"
+    },
+    {
+      "time": 126020,
+      "text": "you should know that all the eyes on me"
+    },
+    {
+      "time": 129040,
+      "text": "我不想回忆我曾经过去",
+      "romanization": "wǒ bù xiǎng huí yì wǒ céng jīng guò qù",
+      "translate": "I don't want to recall my past"
+    },
+    {
+      "time": 131970,
+      "text": "你对我的了解",
+      "romanization": "nǐ duì wǒ de liǎo jiě",
+      "translate": "Your understanding of me"
+    },
+    {
+      "time": 134010,
+      "text": "无声的告别",
+      "romanization": "wú shēng de gào bié",
+      "translate": "A silent farewell"
+    },
+    {
+      "time": 135480,
+      "text": "难过是有些",
+      "romanization": "nán guò shì yǒu xiē",
+      "translate": "There is some sadness"
+    },
+    {
+      "time": 137370,
+      "text": "我情绪在凋谢",
+      "romanization": "wǒ qíng xù zài diāo xiè",
+      "translate": "My emotions are withering"
+    },
+    {
+      "time": 140040,
+      "text": "记忆在交叠",
+      "romanization": "jì yì zài jiāo dié",
+      "translate": "Memories are overlapping"
+    },
+    {
+      "time": 141540,
+      "text": "怎么会好些",
+      "romanization": "zěn me huì hǎo xiē",
+      "translate": "How can it get better"
+    },
+    {
+      "time": 143550,
+      "text": "be a good person"
+    },
+    {
+      "time": 146270,
+      "text": "ei ei ei"
+    },
+    {
+      "time": 150000,
+      "text": "be a good person"
+    },
+    {
+      "time": 152170,
+      "text": "ei ei ei"
+    },
+    {
+      "time": 155490,
+      "text": "be a good person"
+    },
+    {
+      "time": 161830,
+      "text": "be a good person"
+    }
+  ]
+}
